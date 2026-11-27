@@ -53,3 +53,23 @@ Empty sets for now, rendered in Blender. In story order.
 ### Toward the narrow hallway
 
 ![Toward the narrow hallway](13_hallway.png)
+
+### A dressing room, lit by its mirror
+
+![A dressing room, lit by its mirror](14_dressing-room.png)
+
+### The mirror and the make-up
+
+![The mirror and the make-up](15_mirror.png)
+
+### The safe in the wall, open
+
+![The safe in the wall, open](16_safe.png)
+
+### A rail of gowns
+
+![A rail of gowns](17_gowns.png)
+
+### Masks by the door
+
+![Masks by the door](18_masks.png)
